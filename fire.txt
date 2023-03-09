@@ -1,0 +1,2 @@
+fire will be uniqe object
+
